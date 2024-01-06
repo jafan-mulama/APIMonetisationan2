@@ -1,0 +1,8 @@
+ng new APIMonetisationan --standalone false
+
+const routes: Routes = 1
+{
+path: '',
+loadChildren: ()
+import('./public/public.module').then((m) m.PublicModule),
+1:
